@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/model/Converter.java</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/controller/CalculatingServlet.java</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/view/View.java</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/controller/HistoryServlet.java</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/model/InvalidConversionException.java</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/model/ConversionType.java</file>
+            <file>file:/C:/Users/Mirek/Documents/NetBeansProjects/Hex2Dec/src/java/pl/polsl/lab/model/InvalidHexNumberException.java</file>
+        </group>
+    </open-files>
+</project-private>

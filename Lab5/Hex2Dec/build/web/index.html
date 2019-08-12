@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Hex2Dec</title>
+    </head>
+    <body>
+        <h2>Type values:</h2>
+        <form action="CalculatingServlet" method="POST">
+            <p>Select number type (0 - Hex/1 - Dec):<input type=text size=20 name=type></p>
+            <p>Write valid value:<input type=text size=20 name=model></p>
+            <p>Select number conversion type (0 - Hex/1 - Dec):<input type=text size=20 name=conversion></p>
+            <input type="submit" value="Convert" />
+        </form>
+        <hr>
+        <form action="HistoryServlet" method="POST">
+            <input type="submit" value="History" />
+        </form>
+    </body>
+</html>
